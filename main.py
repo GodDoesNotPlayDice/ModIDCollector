@@ -35,7 +35,7 @@ def check_url_availability(url):
             print(f"La URL {url} it's not available. : {response.status_code}")
             return False
     except requests.exceptions.RequestException as e:
-        print(f"No se pudo acceder a la URL {url}. Error: {e}")
+        print(f"It was not possible to access the {url}. Error: {e}")
         return False
 
 
