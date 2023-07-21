@@ -2,7 +2,7 @@
 ## Use.
 This .exe goin to lunch cmd where you have to enter the url and the name of file where you go to save the ids
 
-File is [Here.](https://github.com/GodDoesNotPlayDice/SteamIdCollector/releases/tag/SteamCollectionIds)
+File is [Here.](https://github.com/GodDoesNotPlayDice/SteamIdCollector/releases/tag/SteamCollectionID_v2.0.0)
 
 ## Build .
 1) Python3
