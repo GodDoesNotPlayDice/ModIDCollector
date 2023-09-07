@@ -1,4 +1,6 @@
-# How to Use
+# (Deprecated)
+-------------------------------
+# How to Use 
 ## Use.
 This .exe goin to lunch cmd where you have to enter the url and the name of file where you go to save the ids
 
